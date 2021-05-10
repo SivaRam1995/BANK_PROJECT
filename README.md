@@ -1,9 +1,10 @@
+
+# BANK_PROJECT
 Banking System and Online Banking System
 Language : JAVA.
 Front End : HTML, CSS , BOOTSTRAP, JAVA SCRIPT.
 BackEnd : mySQL.
 
-# BANK_PROJECT
 ABC_BANK
 steps to follow:-
   1. open ->Java Resources -> src -> com.bank.utilities -> mysql-info.properties
